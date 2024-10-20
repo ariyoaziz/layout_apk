@@ -48,7 +48,7 @@ class _HomeState extends State<Home> {
                           height: 80,
                           width: 80,
                           child: Image.asset(
-                            'assets/images/main.png',
+                            'assets/images/burger.jpeg',
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -108,7 +108,7 @@ class _HomeState extends State<Home> {
                           height: 80,
                           width: 80,
                           child: Image.asset(
-                            'assets/images/main.png',
+                            'assets/images/pizza.jpeg',
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -168,7 +168,7 @@ class _HomeState extends State<Home> {
                           height: 80,
                           width: 80,
                           child: Image.asset(
-                            'assets/images/main.png',
+                            'assets/images/noodle.jpeg',
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -228,7 +228,7 @@ class _HomeState extends State<Home> {
                           height: 80,
                           width: 80,
                           child: Image.asset(
-                            'assets/images/main.png',
+                            'assets/images/chicken.jpeg',
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -237,7 +237,7 @@ class _HomeState extends State<Home> {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Text(
-                              'Chicken',
+                              'Fried chicken',
                               style: TextStyle(
                                 fontSize: 18,
                                 fontWeight: FontWeight.bold,
@@ -287,7 +287,7 @@ class _HomeState extends State<Home> {
                           height: 80,
                           width: 80,
                           child: Image.asset(
-                            'assets/images/main.png',
+                            'assets/images/fish.jpeg',
                             fit: BoxFit.cover,
                           ),
                         ),
@@ -296,7 +296,7 @@ class _HomeState extends State<Home> {
                           crossAxisAlignment: CrossAxisAlignment.start,
                           children: [
                             Text(
-                              'Fish',
+                              'Grilled fish',
                               style: TextStyle(
                                 fontSize: 18,
                                 fontWeight: FontWeight.bold,
